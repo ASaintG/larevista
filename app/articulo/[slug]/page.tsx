@@ -5,7 +5,7 @@ import { notFound } from "next/navigation";
 import { headers } from "next/headers";
 import ArticleBody from "@/components/article/ArticleBody";
 import RelatedArticles from "@/components/article/RelatedArticles";
-
+import ShareButtons from "@/components/ui/ShareButtons";
 import {
   getArticleBySlug,
   getArticlesByCategory,
@@ -167,7 +167,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
           <ArticleBody blocks={article.body} />
 
-          
+          <div className="mt-12">
+            <ShareButtons shareUrl={shareUrl} title={article.title} />
+          </div>
         </div>
       </article>
 
