@@ -1,0 +1,1434 @@
+[
+  {
+    "id": "1",
+    "slug": "ia-generativa-redaccion-periodistica",
+    "title": "La IA generativa entra a las redacciones: ¿herramienta o amenaza para el periodismo?",
+    "excerpt": "Medios de todo el mundo están integrando modelos de lenguaje en sus flujos editoriales. Analizamos qué cambia, qué se mantiene y dónde están los límites éticos.",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/ia-redaccion/1600/900",
+      "alt": "Pantalla de computadora con texto generado por IA en una redacción"
+    },
+    "category": "tecnologia",
+    "author": {
+      "name": "María Fernández",
+      "avatar": "https://i.pravatar.cc/150?img=47",
+      "bio": "Periodista especializada en tecnología y cultura digital."
+    },
+    "publishedAt": "2024-11-18T08:30:00Z",
+    "tags": ["inteligencia artificial", "periodismo", "ética"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Durante el último año, redacciones de Estados Unidos, España y América Latina han incorporado herramientas basadas en modelos de lenguaje para tareas que antes consumían horas: transcripciones, resúmenes de documentos extensos, traducciones rápidas y borradores iniciales. La pregunta ya no es si la IA llegó al periodismo, sino cómo conviven editores y máquinas sin que la calidad —ni la confianza del lector— se desplomen."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Lo que sí funciona"
+      },
+      {
+        "type": "paragraph",
+        "text": "En tareas repetitivas y de bajo riesgo editorial, la IA ha demostrado ser eficiente. Resumir un informe del Banco Mundial de 200 páginas en cinco minutos, transcribir una entrevista de una hora con precisión razonable o sugerir titulares alternativos para un mismo texto son usos donde el ahorro de tiempo es innegable."
+      },
+      {
+        "type": "image",
+        "src": "https://picsum.photos/seed/ia-newsroom/1600/900",
+        "alt": "Periodistas trabajando frente a varias pantallas",
+        "caption": "Las redacciones modernas combinan trabajo humano y asistencia algorítmica."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Donde la línea se vuelve difusa"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los problemas aparecen cuando los modelos se usan para generar contenido publicable sin supervisión humana suficiente. Casos documentados de notas con datos inventados —las llamadas alucinaciones— han obligado a varios medios a publicar correcciones públicas y revisar sus políticas internas."
+      },
+      {
+        "type": "quote",
+        "text": "La IA no reemplaza el criterio editorial. Lo amplifica, para bien o para mal, dependiendo de quién esté detrás del teclado.",
+        "author": "Editor de un diario digital regional"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las asociaciones internacionales de prensa han comenzado a publicar guías para el uso responsable de estas herramientas, con principios comunes: transparencia con la audiencia, supervisión humana obligatoria antes de publicar y prohibición de generar fuentes o citas con IA."
+      },
+      {
+        "type": "list",
+        "style": "bullet",
+        "items": [
+          "Etiquetar el contenido asistido por IA cuando aplique.",
+          "Mantener un humano responsable de cada pieza publicada.",
+          "Prohibir la generación de imágenes fotorrealistas de hechos reales.",
+          "Documentar internamente qué herramientas se usaron y para qué."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "slug": "honduras-clasificacion-mundial",
+    "title": "Honduras suma tres puntos clave en su camino al próximo Mundial",
+    "excerpt": "La selección catracha logró una victoria ajustada en condición de visitante y se mantiene viva en la eliminatoria.",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/honduras-futbol/1600/900",
+      "alt": "Estadio de fútbol con afición celebrando"
+    },
+    "category": "deportes",
+    "author": {
+      "name": "Carlos Mendoza",
+      "avatar": "https://i.pravatar.cc/150?img=12"
+    },
+    "publishedAt": 1731628800000,
+    "tags": ["fútbol", "selección", "eliminatoria"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "La Bicolor consiguió una victoria por la mínima diferencia que la mantiene en la pelea por uno de los cupos directos al próximo Mundial. El gol llegó en el minuto 78 tras una jugada elaborada por la banda derecha y una definición precisa dentro del área."
+      },
+      {
+        "type": "paragraph",
+        "text": "El técnico destacó el orden táctico del equipo y la actitud para sufrir los últimos minutos del partido. La próxima fecha será decisiva: Honduras recibirá en casa a uno de sus rivales directos y una victoria los acercaría matemáticamente al objetivo."
+      },
+      {
+        "type": "quote",
+        "text": "No fue el partido más vistoso, pero sí uno de los más importantes del proceso."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "slug": "festival-cine-tegucigalpa-2024",
+    "title": "El Festival Internacional de Cine de Tegucigalpa anuncia su programación",
+    "excerpt": "Más de 60 películas de 25 países se proyectarán durante diez días en distintas sedes de la capital.",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/festival-cine/1600/900",
+      "alt": "Sala de cine con butacas rojas vacías"
+    },
+    "category": "cultura",
+    "author": {
+      "name": "Ana Lucía Reyes",
+      "avatar": "https://i.pravatar.cc/150?img=31",
+      "bio": "Crítica cultural y reportera de espectáculos."
+    },
+    "publishedAt": "2024-11-15T14:00:00Z",
+    "tags": ["cine", "festival", "cultura"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "La organización del festival presentó este viernes la lista oficial de películas que competirán en sus tres categorías principales: ficción internacional, documental centroamericano y cortometrajes hondureños. La inauguración será el próximo 5 de diciembre con una proyección al aire libre y entrada gratuita."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Lo más esperado"
+      },
+      {
+        "type": "paragraph",
+        "text": "Entre los títulos más comentados destacan tres coproducciones latinoamericanas que ya pasaron por Cannes y San Sebastián, además de un documental sobre la migración centroamericana realizado por una directora hondureña radicada en México."
+      },
+      {
+        "type": "image",
+        "src": "https://picsum.photos/seed/festival-poster/1200/1600",
+        "alt": "Afiche oficial del festival con tipografía minimalista"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las entradas para las funciones competitivas ya están disponibles en línea, mientras que las proyecciones al aire libre serán de acceso libre hasta llenar el aforo."
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "slug": "inflacion-canasta-basica-noviembre",
+    "title": "La canasta básica subió 1.8% en noviembre y acumula doce meses al alza",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/canasta-basica/1600/900",
+      "alt": "Carrito de supermercado con productos básicos"
+    },
+    "category": "economia",
+    "author": {
+      "name": "Roberto Paz",
+      "avatar": "https://i.pravatar.cc/150?img=68",
+      "bio": "Reportero económico con quince años de experiencia."
+    },
+    "publishedAt": "2024-12-02T11:15:00Z",
+    "tags": ["economía", "inflación", "consumo"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "El último informe oficial confirma que el costo de la canasta básica continúa en ascenso. Los productos que más subieron fueron los lácteos, el aceite y las frutas de temporada, mientras que los granos básicos se mantuvieron estables gracias a la cosecha reciente."
+      },
+      {
+        "type": "list",
+        "style": "ordered",
+        "items": [
+          "Lácteos: +3.4%",
+          "Aceites y grasas: +2.9%",
+          "Frutas y verduras: +2.1%",
+          "Carnes: +0.6%",
+          "Granos básicos: 0%"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Especialistas consultados coinciden en que la presión inflacionaria responde a una combinación de factores externos —precios internacionales y tipo de cambio— y costos logísticos internos que no logran estabilizarse."
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "slug": "telescopio-james-webb-galaxia-temprana",
+    "title": "El telescopio James Webb detecta una de las galaxias más antiguas observadas hasta hoy",
+    "excerpt": "El hallazgo podría obligar a revisar los modelos actuales sobre la formación de galaxias en el universo temprano.",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/james-webb/1600/900",
+      "alt": "Imagen profunda del espacio con miles de galaxias"
+    },
+    "category": "ciencia",
+    "author": {
+      "name": "Sofía Martínez",
+      "avatar": "https://i.pravatar.cc/150?img=23",
+      "bio": "Divulgadora científica, formada en astrofísica."
+    },
+    "publishedAt": "2024-11-29T09:45:00Z",
+    "tags": ["astronomía", "espacio", "JWST"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Un equipo internacional de astrónomos publicó esta semana un estudio que describe la observación de una galaxia formada apenas 290 millones de años después del Big Bang. La luz captada por el telescopio espacial James Webb tardó más de 13.500 millones de años en llegar a sus instrumentos."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Por qué es relevante"
+      },
+      {
+        "type": "paragraph",
+        "text": "Hasta hace pocos años, los modelos cosmológicos predecían que galaxias tan masivas no podían haberse formado tan temprano. Las observaciones del Webb, sin embargo, están encontrando estructuras que desafían esa expectativa con una frecuencia que sorprende a la comunidad científica."
+      },
+      {
+        "type": "image",
+        "src": "https://picsum.photos/seed/galaxia-distante/1600/900",
+        "alt": "Galaxia distante captada por un telescopio espacial",
+        "caption": "Imagen procesada de la galaxia descrita en el estudio."
+      },
+      {
+        "type": "quote",
+        "text": "No estamos solo encontrando galaxias antiguas. Estamos encontrando galaxias antiguas que no deberían existir según lo que creíamos saber.",
+        "author": "Investigadora principal del estudio"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Próximos pasos"
+      },
+      {
+        "type": "paragraph",
+        "text": "El equipo planea solicitar más tiempo de observación para confirmar la composición química de la galaxia. Si se confirma que ya tenía elementos pesados, eso implicaría que las primeras estrellas se formaron y murieron mucho antes de lo estimado."
+      },
+      {
+        "type": "list",
+        "style": "bullet",
+        "items": [
+          "Edad estimada: 290 millones de años después del Big Bang.",
+          "Distancia: aproximadamente 13.500 millones de años luz.",
+          "Masa estimada: cientos de millones de masas solares.",
+          "Próxima observación prevista: primer trimestre del próximo año."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "slug": "serie-streaming-record-audiencia",
+    "title": "La nueva serie del momento bate récord de audiencia en su semana de estreno",
+    "excerpt": "La producción acumuló más de 80 millones de horas vistas en sus primeros siete días.",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/serie-streaming/1600/900",
+      "alt": "Control remoto apuntando a una televisión encendida"
+    },
+    "category": "entretenimiento",
+    "author": {
+      "name": "Diego Hernández",
+      "avatar": "https://i.pravatar.cc/150?img=52"
+    },
+    "publishedAt": 1732924800000,
+    "tags": ["streaming", "series", "televisión"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "La plataforma confirmó que se trata de uno de los mejores debuts del año en habla no inglesa. La serie, un thriller psicológico de ocho episodios, ya fue renovada para una segunda temporada incluso antes del estreno."
+      },
+      {
+        "type": "paragraph",
+        "text": "Buena parte del éxito se atribuye al boca a boca en redes sociales y a una campaña de marketing centrada en el misterio del primer capítulo, deliberadamente construido para generar conversación."
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "slug": "smartphones-plegables-2025",
+    "title": "Los teléfonos plegables se acercan al usuario promedio: precios y novedades para 2025",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/plegables/1600/900",
+      "alt": "Smartphone plegable abierto sobre una mesa"
+    },
+    "category": "tecnologia",
+    "author": {
+      "name": "María Fernández",
+      "avatar": "https://i.pravatar.cc/150?img=47"
+    },
+    "publishedAt": "2024-11-25T16:00:00Z",
+    "tags": ["smartphones", "hardware"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Cinco años después de los primeros modelos comerciales, los teléfonos plegables comienzan a abandonar el segmento puramente premium. Varios fabricantes anunciaron versiones por debajo de los mil dólares para el próximo año, una barrera psicológica importante para esta categoría."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Lo que mejoró"
+      },
+      {
+        "type": "list",
+        "style": "bullet",
+        "items": [
+          "Bisagras más resistentes, con pruebas de hasta 400.000 ciclos.",
+          "Pantallas con menos pliegue visible.",
+          "Mayor resistencia al agua y al polvo.",
+          "Software optimizado para multitarea en pantalla grande."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Los analistas consultados coinciden en que 2025 podría ser el año en que esta tecnología deje de ser una curiosidad para convertirse en una opción real para usuarios que cambian de teléfono cada dos o tres años."
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "slug": "receta-baleadas-tradicionales",
+    "title": "Baleadas tradicionales: la receta que cada hondureño debería saber preparar",
+    "excerpt": "El plato más representativo del país tiene tantas variantes como familias. Aquí, la receta base.",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/baleadas/1600/900",
+      "alt": "Baleadas tradicionales sobre un plato de madera"
+    },
+    "category": "cultura",
+    "author": {
+      "name": "Lucía Ramírez",
+      "avatar": "https://i.pravatar.cc/150?img=44"
+    },
+    "publishedAt": "2024-10-30T12:30:00Z",
+    "tags": ["gastronomía", "Honduras", "recetas"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "La baleada es probablemente el plato más reconocible de la cocina hondureña. En su versión más sencilla, una tortilla de harina, frijoles refritos, queso rallado y mantequilla. A partir de ahí, las variantes son infinitas."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Para la masa"
+      },
+      {
+        "type": "list",
+        "style": "ordered",
+        "items": [
+          "3 tazas de harina de trigo.",
+          "1 cucharadita de sal.",
+          "1 cucharadita de polvo de hornear.",
+          "3 cucharadas de manteca o aceite.",
+          "Agua tibia, la necesaria."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Mezclar los secos, agregar la grasa y luego el agua poco a poco hasta lograr una masa suave. Reposar veinte minutos antes de dividir en bolas y extender."
+      },
+      {
+        "type": "quote",
+        "text": "El truco no está en la harina, está en la mano que la trabaja.",
+        "author": "Refrán popular hondureño"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "slug": "criptomonedas-regulacion-centroamerica",
+    "title": "Centroamérica avanza hacia una regulación común de criptoactivos",
+    "category": "economia",
+    "author": {
+      "name": "Roberto Paz"
+    },
+    "publishedAt": "2024-12-01T07:30:00Z",
+    "tags": ["criptomonedas", "regulación"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Los bancos centrales de la región sostuvieron esta semana una reunión técnica para acordar lineamientos compartidos sobre el tratamiento de los criptoactivos. El objetivo es evitar que la heterogeneidad regulatoria genere arbitraje entre países vecinos."
+      },
+      {
+        "type": "paragraph",
+        "text": "Aunque cada nación mantendrá su autonomía legislativa, la idea es publicar un marco de referencia común antes del cierre del próximo año fiscal."
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "slug": "ciberseguridad-empresas-pymes",
+    "title": "Ciberseguridad para pymes: cinco prácticas que pueden ahorrar millones",
+    "excerpt": "El 60% de las pequeñas empresas que sufren un ataque grave cierran en los seis meses siguientes. Cómo evitarlo.",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/ciberseguridad/1600/900",
+      "alt": "Pantalla con código y un candado superpuesto"
+    },
+    "category": "tecnologia",
+    "author": {
+      "name": "María Fernández",
+      "avatar": "https://i.pravatar.cc/150?img=47",
+      "bio": "Periodista especializada en tecnología y cultura digital."
+    },
+    "publishedAt": 1732320000000,
+    "tags": ["ciberseguridad", "pymes", "negocios"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Las pequeñas y medianas empresas suelen pensar que los ciberataques son un problema de las grandes corporaciones. Las estadísticas muestran exactamente lo contrario: precisamente porque están menos protegidas, son blanco frecuente de ataques automatizados que no discriminan tamaño."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Las cinco prácticas básicas"
+      },
+      {
+        "type": "list",
+        "style": "ordered",
+        "items": [
+          "Activar autenticación de dos factores en todas las cuentas críticas.",
+          "Mantener un respaldo automático y desconectado de la red principal.",
+          "Capacitar al personal en reconocimiento de phishing al menos una vez al año.",
+          "Actualizar software y sistemas operativos sin demoras.",
+          "Tener un protocolo escrito para los primeros 60 minutos tras un incidente."
+        ]
+      },
+      {
+        "type": "image",
+        "src": "https://picsum.photos/seed/cibersec-team/1600/900",
+        "alt": "Equipo de trabajo revisando información en pantallas",
+        "caption": "La capacitación del personal es la primera línea de defensa."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ninguna de estas medidas requiere inversiones cuantiosas. La mayoría se implementa con herramientas gratuitas o ya incluidas en suscripciones que las empresas suelen tener."
+      },
+      {
+        "type": "quote",
+        "text": "El error más caro no es el ataque. Es haber pensado que no iba a pasarte.",
+        "author": "Consultor de seguridad informática"
+      },
+      {
+        "type": "heading",
+        "level": 3,
+        "text": "Qué hacer cuando ya pasó"
+      },
+      {
+        "type": "paragraph",
+        "text": "Si la empresa detecta un incidente, la regla es desconectar antes que apagar. Apagar puede borrar evidencia útil para reconstruir lo ocurrido. Desconectar de la red detiene la propagación sin destruir los rastros."
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "slug": "olimpiadas-paris-resumen",
+    "title": "Lo mejor que dejaron los Juegos Olímpicos de París",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/olimpiadas/1600/900",
+      "alt": "Antorcha olímpica encendida frente a un cielo despejado"
+    },
+    "category": "deportes",
+    "author": {
+      "name": "Carlos Mendoza"
+    },
+    "publishedAt": "2024-08-12T22:00:00Z",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Los Juegos cerraron con un balance positivo en organización, sostenibilidad y rating televisivo. La ceremonia inaugural sobre el Sena, aunque polémica para algunos sectores, marcó un quiebre estético respecto a las versiones anteriores."
+      },
+      {
+        "type": "paragraph",
+        "text": "En lo deportivo, hubo récords mundiales en atletismo, natación y escalada. La delegación latinoamericana logró su mejor desempeño histórico en cantidad de medallas."
+      },
+      {
+        "type": "quote",
+        "text": "Estos Juegos demostraron que sí se puede organizar un evento de esta escala con criterios ambientales serios."
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "slug": "literatura-centroamericana-emergente",
+    "title": "Cinco autoras centroamericanas que están redefiniendo la narrativa de la región",
+    "excerpt": "Una nueva generación de escritoras está conquistando premios internacionales y traducciones en varios idiomas.",
+    "category": "cultura",
+    "author": {
+      "name": "Ana Lucía Reyes",
+      "avatar": "https://i.pravatar.cc/150?img=31"
+    },
+    "publishedAt": "2024-11-10T10:00:00Z",
+    "tags": ["literatura", "Centroamérica", "mujeres"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Durante años, la literatura centroamericana estuvo marcada por la figura del escritor varón vinculado al testimonio político. La nueva generación, mayoritariamente femenina, está moviendo esa frontera con voces que mezclan lo íntimo, lo fantástico y lo histórico."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Cinco nombres para seguir"
+      },
+      {
+        "type": "list",
+        "style": "ordered",
+        "items": [
+          "Una guatemalteca que mezcla terror folclórico y crítica social.",
+          "Una salvadoreña que explora la migración desde la voz de las niñas que se quedan.",
+          "Una hondureña que reescribe la historia oral del Caribe.",
+          "Una nicaragüense en el exilio cuya prosa se traduce ya a seis idiomas.",
+          "Una costarricense que hibrida ensayo, ficción y memoria personal."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "El interés de editoriales europeas y mexicanas ha sido clave: prácticamente todas estas autoras han publicado fuera de sus países antes de tener tirajes amplios en casa."
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "slug": "salud-mental-jovenes-pandemia",
+    "title": "El impacto silencioso de la pandemia en la salud mental de los jóvenes",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/salud-mental/1600/900",
+      "alt": "Joven sentado mirando por una ventana"
+    },
+    "category": "salud",
+    "author": {
+      "name": "Sofía Martínez",
+      "avatar": "https://i.pravatar.cc/150?img=23"
+    },
+    "publishedAt": 1729728000000,
+    "tags": ["salud mental", "jóvenes"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Cuatro años después de los confinamientos masivos, los estudios longitudinales empiezan a mostrar efectos de mediano plazo en adolescentes y jóvenes adultos. La ansiedad y los trastornos del sueño son los más frecuentes."
+      },
+      {
+        "type": "paragraph",
+        "text": "Especialistas advierten que el sistema sanitario público de la región no está preparado para absorber el aumento de demanda en consultas de salud mental, especialmente en zonas fuera de las capitales."
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "slug": "energias-renovables-honduras-2024",
+    "title": "Honduras genera más del 60% de su electricidad con fuentes renovables",
+    "category": "ciencia",
+    "author": {
+      "name": "Sofía Martínez"
+    },
+    "publishedAt": "2024-11-20T13:00:00Z",
+    "tags": ["energía", "renovables", "medio ambiente"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "El último informe del operador del sistema confirma que la matriz eléctrica del país se compone mayoritariamente de hidroeléctrica, solar y, en menor medida, eólica y biomasa. La cifra ubica al país por encima del promedio centroamericano."
+      },
+      {
+        "type": "paragraph",
+        "text": "Los desafíos pendientes están en las redes de distribución y en la modernización de subestaciones que datan de hace varias décadas."
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "slug": "mundial-clubes-formato-nuevo",
+    "title": "Llega el nuevo formato del Mundial de Clubes: cómo funciona y qué equipos clasificaron",
+    "excerpt": "El torneo se expande a 32 equipos y promete cambiar el calendario futbolístico global.",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/mundial-clubes/1600/900",
+      "alt": "Trofeo deportivo dorado sobre fondo oscuro"
+    },
+    "category": "deportes",
+    "author": {
+      "name": "Carlos Mendoza",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "bio": "Periodista deportivo especializado en fútbol."
+    },
+    "publishedAt": "2024-11-22T18:30:00Z",
+    "tags": ["fútbol", "FIFA", "Mundial de Clubes"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "La FIFA confirmó la lista definitiva de los 32 clubes que participarán en la nueva versión del Mundial de Clubes. La distribución por confederaciones, los criterios de clasificación y las sedes ya están definidos, aunque persisten dudas sobre el calendario y el desgaste físico de los jugadores."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Distribución por confederación"
+      },
+      {
+        "type": "list",
+        "style": "bullet",
+        "items": [
+          "UEFA: 12 cupos.",
+          "CONMEBOL: 6 cupos.",
+          "AFC: 4 cupos.",
+          "CAF: 4 cupos.",
+          "CONCACAF: 4 cupos.",
+          "OFC: 1 cupo.",
+          "País anfitrión: 1 cupo."
+        ]
+      },
+      {
+        "type": "image",
+        "src": "https://picsum.photos/seed/estadio-mundial/1600/900",
+        "alt": "Estadio iluminado durante un partido nocturno"
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "El debate de fondo"
+      },
+      {
+        "type": "paragraph",
+        "text": "Asociaciones de jugadores y ligas nacionales han expresado preocupación por la sobrecarga del calendario. Los futbolistas de los clubes más exigidos podrían disputar más de 70 partidos oficiales en una temporada."
+      },
+      {
+        "type": "quote",
+        "text": "No se puede pedir excelencia técnica y al mismo tiempo cuerpo agotado. Algo va a romperse en algún momento.",
+        "author": "Capitán de un club europeo"
+      },
+      {
+        "type": "paragraph",
+        "text": "La FIFA, por su parte, sostiene que la nueva competencia profesionaliza la categoría y le da peso económico real, especialmente para los clubes fuera de Europa."
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "slug": "musica-electronica-latinoamerica",
+    "title": "La música electrónica latinoamericana se abre paso en los festivales europeos",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/musica-electronica/1600/900",
+      "alt": "Multitud en un concierto con luces de neón"
+    },
+    "category": "cultura",
+    "author": {
+      "name": "Diego Hernández",
+      "avatar": "https://i.pravatar.cc/150?img=52"
+    },
+    "publishedAt": "2024-09-28T20:00:00Z",
+    "tags": ["música", "electrónica", "festivales"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Productores de Argentina, Colombia, Chile y México están dominando los lineups de varios festivales europeos de electrónica. La fusión con ritmos tradicionales —cumbia, candombe, folklore andino— es uno de los sellos más reconocibles del momento."
+      },
+      {
+        "type": "paragraph",
+        "text": "El fenómeno tiene un componente económico claro: los sellos europeos están firmando contratos con artistas latinoamericanos a un ritmo sin precedentes."
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "slug": "elecciones-locales-participacion",
+    "title": "Las elecciones locales registran la participación más alta en una década",
+    "excerpt": "Más del 70% del padrón acudió a las urnas, un dato que sorprendió a analistas y encuestadoras.",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/elecciones/1600/900",
+      "alt": "Urna electoral con bandera de fondo"
+    },
+    "category": "politica",
+    "author": {
+      "name": "Lucía Ramírez",
+      "avatar": "https://i.pravatar.cc/150?img=44",
+      "bio": "Reportera política con cobertura electoral."
+    },
+    "publishedAt": "2024-11-26T23:30:00Z",
+    "tags": ["política", "elecciones"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "El alto nivel de participación se atribuye a una combinación de factores: campañas locales más activas en redes sociales, condiciones climáticas favorables y un padrón actualizado tras un proceso de depuración intenso."
+      },
+      {
+        "type": "paragraph",
+        "text": "Las autoridades electorales destacaron la jornada como una de las más ordenadas de los últimos años, con incidentes aislados y reportados a tiempo."
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "slug": "apps-finanzas-personales",
+    "title": "Las mejores aplicaciones para organizar tus finanzas personales este año",
+    "category": "tecnologia",
+    "author": {
+      "name": "María Fernández"
+    },
+    "publishedAt": 1730851200000,
+    "tags": ["apps", "finanzas"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "El mercado de aplicaciones para finanzas personales se consolidó en los últimos años con propuestas que van desde las más simples hasta las que se conectan directamente con cuentas bancarias y tarjetas."
+      },
+      {
+        "type": "list",
+        "style": "bullet",
+        "items": [
+          "Para principiantes: una con interfaz minimalista y categorías predefinidas.",
+          "Para usuarios avanzados: opciones que permiten crear reportes personalizados.",
+          "Para parejas o familias: aplicaciones con gestión compartida en tiempo real.",
+          "Para freelancers: herramientas que separan ingresos personales y profesionales."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "slug": "premios-cine-iberoamericano",
+    "title": "Anunciados los nominados a los premios del cine iberoamericano",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/premios-cine/1600/900",
+      "alt": "Estatuilla dorada sobre una alfombra roja"
+    },
+    "category": "entretenimiento",
+    "author": {
+      "name": "Diego Hernández"
+    },
+    "publishedAt": "2024-11-19T17:00:00Z",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "La academia publicó la lista de nominados a sus premios anuales. La ceremonia se realizará el próximo mes en una capital iberoamericana que aún no ha sido confirmada oficialmente."
+      },
+      {
+        "type": "paragraph",
+        "text": "La categoría de mejor película tiene como favoritas a tres producciones que ya pasaron por circuitos de festivales internacionales con reconocimientos previos."
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "slug": "nutricion-alimentos-ultraprocesados",
+    "title": "Por qué los nutricionistas insisten tanto con los ultraprocesados",
+    "excerpt": "El término aparece en cualquier consulta y en cada etiqueta de moda, pero pocos saben qué significa exactamente.",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/ultraprocesados/1600/900",
+      "alt": "Productos empaquetados en estantes de supermercado"
+    },
+    "category": "salud",
+    "author": {
+      "name": "Sofía Martínez",
+      "avatar": "https://i.pravatar.cc/150?img=23",
+      "bio": "Divulgadora científica, formada en astrofísica."
+    },
+    "publishedAt": "2024-10-15T08:00:00Z",
+    "tags": ["nutrición", "salud", "alimentación"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "El concepto de alimento ultraprocesado fue acuñado por investigadores brasileños hace poco más de una década, dentro de un sistema de clasificación llamado NOVA. La idea no es nueva, pero la evidencia acumulada en los últimos cinco años la volvió central en cualquier discusión sobre alimentación."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Qué los caracteriza"
+      },
+      {
+        "type": "list",
+        "style": "bullet",
+        "items": [
+          "Tienen ingredientes que no se usan en una cocina común.",
+          "Combinan azúcares, grasas y sodio en proporciones diseñadas para maximizar el consumo.",
+          "Se conservan por períodos largos sin refrigeración.",
+          "Habitualmente vienen en envases coloridos con marketing intensivo."
+        ]
+      },
+      {
+        "type": "image",
+        "src": "https://picsum.photos/seed/comida-procesada/1600/900",
+        "alt": "Variedad de productos empaquetados sobre una mesa",
+        "caption": "Ejemplos típicos de alimentos clasificados como ultraprocesados."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "El consenso actual"
+      },
+      {
+        "type": "paragraph",
+        "text": "Estudios poblacionales realizados en países de tres continentes muestran asociación entre consumo elevado de ultraprocesados y mayor incidencia de obesidad, diabetes tipo 2 y enfermedad cardiovascular. Lo más interesante es que esta relación se mantiene incluso ajustando por calorías totales."
+      },
+      {
+        "type": "quote",
+        "text": "No se trata de demonizar productos individuales. Se trata de pensar el patrón alimentario completo.",
+        "author": "Nutricionista clínica"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "slug": "turismo-roatan-temporada-alta",
+    "title": "Roatán proyecta una temporada alta histórica para fin de año",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/roatan/1600/900",
+      "alt": "Playa caribeña con agua turquesa"
+    },
+    "category": "economia",
+    "author": {
+      "name": "Roberto Paz",
+      "avatar": "https://i.pravatar.cc/150?img=68"
+    },
+    "publishedAt": "2024-11-08T11:30:00Z",
+    "tags": ["turismo", "Honduras"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Las reservas hoteleras en la isla superan ya el 90% para las fechas comprendidas entre el 20 de diciembre y el 5 de enero. Los operadores estiman ingresos superiores a los del año anterior, que ya había sido récord."
+      },
+      {
+        "type": "paragraph",
+        "text": "El crecimiento del turismo de cruceros y las conexiones aéreas directas desde varias ciudades estadounidenses son los principales motores detrás de las cifras."
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "slug": "redes-sociales-adolescentes-uso",
+    "title": "Redes sociales y adolescentes: lo que dicen las nuevas investigaciones",
+    "category": "tecnologia",
+    "author": {
+      "name": "María Fernández",
+      "avatar": "https://i.pravatar.cc/150?img=47"
+    },
+    "publishedAt": 1730073600000,
+    "tags": ["redes sociales", "adolescentes"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "El debate sobre el efecto de las redes sociales en adolescentes sigue siendo intenso, pero los estudios más recientes muestran un panorama más matizado que el de hace algunos años. El uso problemático parece concentrarse en perfiles específicos de adolescentes, no en todos por igual."
+      },
+      {
+        "type": "quote",
+        "text": "El problema no son las redes sociales en abstracto, sino qué hace cada chico con ellas y por cuánto tiempo."
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "slug": "videojuegos-independientes-2024",
+    "title": "Los videojuegos independientes que dominaron este año",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/indie-games/1600/900",
+      "alt": "Pantalla de videojuego con escenario pixelado"
+    },
+    "category": "entretenimiento",
+    "author": {
+      "name": "Diego Hernández",
+      "avatar": "https://i.pravatar.cc/150?img=52"
+    },
+    "publishedAt": "2024-12-03T15:45:00Z",
+    "tags": ["videojuegos", "indie"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Mientras los grandes estudios atravesaron un año complicado con despidos masivos y juegos retrasados, la escena independiente vivió uno de sus mejores momentos. Tres títulos vendieron más de un millón de copias cada uno con equipos de menos de diez personas."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "El ingrediente común"
+      },
+      {
+        "type": "paragraph",
+        "text": "Lo interesante es que los tres juegos comparten algo: identidad visual fuerte, mecánicas simples pero refinadas hasta el último detalle, y comunidades activas en torno a Discord y plataformas de transmisión."
+      },
+      {
+        "type": "list",
+        "style": "ordered",
+        "items": [
+          "Un roguelike con estética minimalista en blanco y negro.",
+          "Una aventura narrativa sobre la memoria familiar.",
+          "Un puzzle cooperativo jugable solo en pareja."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "slug": "agua-potable-zonas-rurales",
+    "title": "El acceso al agua potable sigue siendo una deuda pendiente en zonas rurales",
+    "category": "ciencia",
+    "author": {
+      "name": "Lucía Ramírez"
+    },
+    "publishedAt": "2024-11-12T09:00:00Z",
+    "tags": ["agua", "medio ambiente"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "A pesar de los avances de las últimas décadas, varias comunidades rurales siguen sin acceso a agua potable de calidad. Los proyectos de cooperación internacional han avanzado, pero la sostenibilidad a largo plazo depende de fortalecer las capacidades locales."
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "slug": "moda-sostenible-tendencias",
+    "title": "La moda sostenible deja de ser una tendencia y se vuelve estándar",
+    "excerpt": "Lo que comenzó como un nicho ético se está convirtiendo en una exigencia regulatoria en varios mercados.",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/moda-sostenible/1600/900",
+      "alt": "Prendas de ropa colgadas en perchas de madera"
+    },
+    "category": "cultura",
+    "author": {
+      "name": "Ana Lucía Reyes",
+      "avatar": "https://i.pravatar.cc/150?img=31",
+      "bio": "Crítica cultural y reportera de espectáculos."
+    },
+    "publishedAt": 1731196800000,
+    "tags": ["moda", "sostenibilidad"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Durante años, las marcas que apostaban por la sostenibilidad eran etiquetadas como nicho. Hoy, una combinación de regulación europea, presión del consumidor joven y cambios en cadenas de suministro está moviendo el centro de gravedad de toda la industria."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Qué cambió"
+      },
+      {
+        "type": "list",
+        "style": "bullet",
+        "items": [
+          "Trazabilidad obligatoria en varios países de la Unión Europea.",
+          "Penalizaciones fiscales a productos con vida útil corta.",
+          "Crecimiento del mercado de segunda mano formalizado.",
+          "Mayor transparencia en composición y origen de los materiales."
+        ]
+      },
+      {
+        "type": "image",
+        "src": "https://picsum.photos/seed/moda-textil/1600/900",
+        "alt": "Telares industriales en una fábrica textil"
+      },
+      {
+        "type": "paragraph",
+        "text": "Las marcas que no se adapten enfrentarán no solo un problema reputacional, sino también de acceso a mercados. Algunos minoristas ya están eliminando proveedores que no cumplen con estándares mínimos de trazabilidad."
+      },
+      {
+        "type": "quote",
+        "text": "Lo barato salió caro durante demasiado tiempo. La industria entera está pagando esa cuenta.",
+        "author": "Diseñadora de una marca de autor"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "slug": "trafico-aereo-recuperacion",
+    "title": "El tráfico aéreo regional supera por primera vez los niveles prepandemia",
+    "category": "economia",
+    "author": {
+      "name": "Roberto Paz",
+      "avatar": "https://i.pravatar.cc/150?img=68"
+    },
+    "publishedAt": "2024-11-05T10:30:00Z",
+    "tags": ["aviación", "turismo"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Los aeropuertos centroamericanos registraron en octubre el mejor mes de su historia en cantidad de pasajeros. La cifra supera incluso los niveles previos a la pandemia, algo que las proyecciones más optimistas no esperaban hasta el próximo año."
+      },
+      {
+        "type": "paragraph",
+        "text": "La conectividad regional sigue siendo un punto débil: la mayoría del crecimiento se explica por rutas hacia Norteamérica, no por vuelos entre países vecinos."
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "slug": "ejercicio-fuerza-adultos-mayores",
+    "title": "Por qué el entrenamiento de fuerza es clave después de los 50 años",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/entrenamiento/1600/900",
+      "alt": "Persona adulta levantando pesas livianas"
+    },
+    "category": "salud",
+    "author": {
+      "name": "Sofía Martínez"
+    },
+    "publishedAt": 1730505600000,
+    "tags": ["salud", "ejercicio", "envejecimiento"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "La pérdida de masa muscular asociada al envejecimiento, llamada sarcopenia, es uno de los factores más determinantes en la calidad de vida en la tercera edad. La buena noticia es que se previene y, en muchos casos, se revierte con entrenamiento regular."
+      },
+      {
+        "type": "paragraph",
+        "text": "Los protocolos actuales recomiendan al menos dos sesiones semanales de fuerza, idealmente supervisadas, combinadas con actividad aeróbica moderada."
+      },
+      {
+        "type": "quote",
+        "text": "La edad no es contraindicación. La inactividad sí lo es."
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "slug": "industria-cafe-precios",
+    "title": "El precio del café alcanza un máximo histórico tras una cosecha menor a la esperada",
+    "excerpt": "Productores celebran los precios, pero la cadena entera enfrenta tensiones que podrían trasladarse al consumidor final.",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/cafe/1600/900",
+      "alt": "Granos de café tostado en primer plano"
+    },
+    "category": "economia",
+    "author": {
+      "name": "Roberto Paz"
+    },
+    "publishedAt": "2024-11-30T07:00:00Z",
+    "tags": ["café", "agricultura", "exportación"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "El precio internacional del café arábica superó esta semana cifras que no se veían desde los años setenta, ajustadas por inflación. La explicación combina factores climáticos en Brasil, especulación financiera y cambios en patrones de consumo en Asia."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Lo que pasa en la región"
+      },
+      {
+        "type": "paragraph",
+        "text": "Para los productores centroamericanos, los precios actuales representan una oportunidad única después de años complejos. Sin embargo, varios sectores advierten que la infraestructura de procesamiento y logística no está preparada para aprovechar esta ventana sin cuellos de botella."
+      },
+      {
+        "type": "image",
+        "src": "https://picsum.photos/seed/finca-cafe/1600/900",
+        "alt": "Plantación de café en una ladera montañosa",
+        "caption": "Cosecha en una finca de altura."
+      },
+      {
+        "type": "list",
+        "style": "bullet",
+        "items": [
+          "Precio actual: máximo histórico ajustado por inflación.",
+          "Cosecha proyectada: por debajo del promedio de los últimos cinco años.",
+          "Exportaciones regionales: con crecimiento sostenido en mercados especiales."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "slug": "teatro-independiente-resurgir",
+    "title": "El teatro independiente vuelve a llenar salas tras años difíciles",
+    "category": "cultura",
+    "author": {
+      "name": "Ana Lucía Reyes"
+    },
+    "publishedAt": "2024-10-22T19:00:00Z",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Las salas pequeñas y los colectivos teatrales han recuperado parte de su público histórico. Las temporadas cortas, los precios accesibles y la programación rotativa funcionan mejor que las largas temporadas tradicionales."
+      },
+      {
+        "type": "paragraph",
+        "text": "El boca a boca digital, sumado a redes sociales como herramienta de difusión, ha sido decisivo en este resurgir."
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "slug": "espacio-mision-luna-2025",
+    "title": "Las misiones a la Luna programadas para 2025: mucho más que turismo espacial",
+    "excerpt": "Varias agencias y empresas privadas tienen previstos lanzamientos lunares en los próximos doce meses. Te contamos qué busca cada una.",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/luna/1600/900",
+      "alt": "Luna llena en cielo nocturno con detalle de cráteres"
+    },
+    "category": "ciencia",
+    "author": {
+      "name": "Sofía Martínez",
+      "avatar": "https://i.pravatar.cc/150?img=23",
+      "bio": "Divulgadora científica, formada en astrofísica."
+    },
+    "publishedAt": "2024-12-04T12:00:00Z",
+    "tags": ["espacio", "Luna", "exploración"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Después de medio siglo de relativo silencio, la Luna volvió al centro de la agenda espacial mundial. El próximo año concentra una cantidad inusual de misiones lunares, públicas y privadas, con objetivos que van desde la prospección de recursos hasta la prueba de tecnologías para futuras misiones a Marte."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Las misiones más relevantes"
+      },
+      {
+        "type": "list",
+        "style": "ordered",
+        "items": [
+          "Una misión tripulada que orbitará la Luna sin alunizar.",
+          "Tres landers comerciales con cargas científicas y experimentales.",
+          "Un rover dedicado a buscar agua en cráteres del polo sur.",
+          "Pruebas de comunicación y navegación para futuras bases permanentes."
+        ]
+      },
+      {
+        "type": "image",
+        "src": "https://picsum.photos/seed/cohete/1600/900",
+        "alt": "Cohete espacial despegando con humo y fuego",
+        "caption": "El calendario de lanzamientos lunares es el más cargado en décadas."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Por qué la Luna y no Marte"
+      },
+      {
+        "type": "paragraph",
+        "text": "La respuesta corta: la Luna está cerca. Las misiones lunares funcionan como banco de pruebas para tecnologías que después se llevarán a destinos más lejanos. Además, si se confirma la presencia de hielo de agua en cantidades aprovechables, podría usarse como combustible para misiones interplanetarias."
+      },
+      {
+        "type": "quote",
+        "text": "La Luna ya no es una meta. Es la primera estación de un viaje mucho más largo.",
+        "author": "Director de una agencia espacial"
+      },
+      {
+        "type": "paragraph",
+        "text": "Los costos siguen siendo altísimos, pero la entrada de actores privados está bajando los precios por kilogramo lanzado a un ritmo que parecía imposible hace una década."
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "slug": "transporte-publico-electrico",
+    "title": "Las primeras unidades de transporte público eléctrico llegan a la capital",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/bus-electrico/1600/900",
+      "alt": "Autobús eléctrico moderno en una avenida urbana"
+    },
+    "category": "ciencia",
+    "author": {
+      "name": "Lucía Ramírez",
+      "avatar": "https://i.pravatar.cc/150?img=44"
+    },
+    "publishedAt": "2024-11-14T08:45:00Z",
+    "tags": ["transporte", "electromovilidad"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Las autoridades municipales presentaron las primeras diez unidades de transporte público con motorización eléctrica. La meta es alcanzar al menos cien unidades operativas en los próximos tres años."
+      },
+      {
+        "type": "paragraph",
+        "text": "El proyecto incluye también la instalación de puntos de carga rápida en cabeceras y la capacitación del personal de operaciones y mantenimiento."
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "slug": "redes-sociales-nuevas-funciones",
+    "title": "Las nuevas funciones que llegan a las principales redes sociales este mes",
+    "category": "tecnologia",
+    "author": {
+      "name": "María Fernández"
+    },
+    "publishedAt": 1733097600000,
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Las plataformas más utilizadas siguen ajustando sus productos con cambios menores pero frecuentes. Este mes, las novedades se concentran en privacidad, mejoras de mensajería y nuevas opciones para creadores de contenido."
+      },
+      {
+        "type": "list",
+        "style": "bullet",
+        "items": [
+          "Mensajes que se autodestruyen tras leerse.",
+          "Listas privadas de seguidores cercanos.",
+          "Mejoras de monetización para cuentas pequeñas.",
+          "Filtros de contenido más granulares."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "slug": "educacion-financiera-jovenes",
+    "title": "Educación financiera: el contenido que los jóvenes consumen y por qué importa",
+    "category": "economia",
+    "author": {
+      "name": "Roberto Paz",
+      "avatar": "https://i.pravatar.cc/150?img=68"
+    },
+    "publishedAt": "2024-10-08T10:00:00Z",
+    "tags": ["finanzas", "educación", "jóvenes"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Los videos cortos sobre ahorro, inversión y administración del dinero son uno de los nichos de mayor crecimiento en plataformas de video. La calidad del contenido es desigual, pero el interés es real y sostenido."
+      },
+      {
+        "type": "quote",
+        "text": "El sistema educativo formal sigue llegando tarde a estos temas. Las plataformas, mientras tanto, llenan ese vacío como pueden."
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "slug": "boxeo-pelea-anunciada",
+    "title": "Anunciada la pelea más esperada del año en el boxeo mundial",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/boxeo/1600/900",
+      "alt": "Guantes de boxeo sobre un cuadrilátero"
+    },
+    "category": "deportes",
+    "author": {
+      "name": "Carlos Mendoza"
+    },
+    "publishedAt": "2024-11-27T21:00:00Z",
+    "tags": ["boxeo"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Los promotores confirmaron oficialmente la fecha y la sede del combate. Será en marzo del próximo año en una de las arenas más emblemáticas de Las Vegas."
+      },
+      {
+        "type": "paragraph",
+        "text": "La bolsa total del evento se estima en cifras récord, impulsada por los acuerdos de transmisión en streaming, que han desplazado al modelo de pago por evento tradicional."
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "slug": "arquitectura-vernacula-honduras",
+    "title": "La arquitectura vernácula hondureña encuentra nueva vida en proyectos contemporáneos",
+    "excerpt": "Una generación de arquitectos jóvenes está rescatando técnicas tradicionales para integrarlas a obras modernas y sostenibles.",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/arquitectura/1600/900",
+      "alt": "Casa con techo de teja y muros de adobe"
+    },
+    "category": "cultura",
+    "author": {
+      "name": "Ana Lucía Reyes",
+      "avatar": "https://i.pravatar.cc/150?img=31"
+    },
+    "publishedAt": 1730937600000,
+    "tags": ["arquitectura", "tradición", "sostenibilidad"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Durante décadas, la arquitectura tradicional hondureña fue considerada un objeto de estudio histórico, no una fuente viva de soluciones. Eso está cambiando rápidamente. Una generación de profesionales jóvenes ha empezado a estudiar las técnicas vernáculas no como nostalgia, sino como respuesta concreta a problemas contemporáneos."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Lo que se está rescatando"
+      },
+      {
+        "type": "list",
+        "style": "bullet",
+        "items": [
+          "Muros de adobe estabilizado con técnicas modernas.",
+          "Sistemas de ventilación natural inspirados en casas coloniales.",
+          "Uso de tejas tradicionales en techos con aislamiento contemporáneo.",
+          "Recuperación de patios interiores como reguladores climáticos."
+        ]
+      },
+      {
+        "type": "image",
+        "src": "https://picsum.photos/seed/casa-tradicional/1600/900",
+        "alt": "Patio interior con vegetación y arcos coloniales",
+        "caption": "El patio interior, una solución climática antes que estética."
+      },
+      {
+        "type": "paragraph",
+        "text": "Los proyectos no son réplicas. Son hibridaciones inteligentes que toman lo que funciona del pasado y lo combinan con materiales y conocimientos actuales. El resultado son edificios con menor huella ambiental y mejor desempeño térmico que muchas construcciones nuevas convencionales."
+      },
+      {
+        "type": "quote",
+        "text": "Nuestras abuelas sabían más de eficiencia energética de lo que hoy admitimos. Solo no le decían así.",
+        "author": "Arquitecta y docente universitaria"
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "slug": "podcasts-paises-hispanohablantes",
+    "title": "El podcast en español sigue creciendo: los formatos que mejor funcionan",
+    "category": "entretenimiento",
+    "author": {
+      "name": "Diego Hernández",
+      "avatar": "https://i.pravatar.cc/150?img=52"
+    },
+    "publishedAt": "2024-09-15T11:00:00Z",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "El consumo de podcast en español superó cifras récord este año. Los formatos de entrevistas largas y los podcasts narrativos siguen liderando, pero el crecimiento más rápido está en los podcasts de nicho ultra específico."
+      },
+      {
+        "type": "paragraph",
+        "text": "Las plataformas, conscientes del potencial publicitario, están firmando exclusividades con creadores que hace dos o tres años distribuían libremente."
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "slug": "cambio-climatico-region-centroamericana",
+    "title": "Cambio climático en Centroamérica: lo que muestran los datos de la última década",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/clima/1600/900",
+      "alt": "Tierra agrietada por sequía con cielo nublado"
+    },
+    "category": "ciencia",
+    "author": {
+      "name": "Sofía Martínez",
+      "avatar": "https://i.pravatar.cc/150?img=23"
+    },
+    "publishedAt": "2024-11-21T13:30:00Z",
+    "tags": ["cambio climático", "Centroamérica"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Centroamérica figura entre las regiones más vulnerables al cambio climático del planeta. Los datos de la última década confirman tendencias que las proyecciones anticipaban: temporadas de lluvia más erráticas, eventos extremos más frecuentes y un corredor seco que se expande."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Tendencias confirmadas"
+      },
+      {
+        "type": "list",
+        "style": "bullet",
+        "items": [
+          "Aumento sostenido de temperatura media en todas las subregiones.",
+          "Mayor variabilidad en patrones de lluvia.",
+          "Huracanes más intensos, aunque no necesariamente más frecuentes.",
+          "Pérdida de cobertura forestal en zonas críticas."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Los efectos sobre la agricultura ya son visibles, especialmente en cultivos como el café y los granos básicos. La adaptación, más que la mitigación, es hoy el tema central de los planes nacionales."
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "slug": "minimalismo-digital",
+    "title": "El minimalismo digital se vuelve tendencia entre profesionales agotados",
+    "category": "tecnologia",
+    "author": {
+      "name": "María Fernández",
+      "avatar": "https://i.pravatar.cc/150?img=47"
+    },
+    "publishedAt": 1729382400000,
+    "tags": ["productividad", "tecnología"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Cada vez más usuarios están reduciendo conscientemente la cantidad de aplicaciones, notificaciones y plataformas que usan a diario. La lógica es simple: menos estímulos, más capacidad de concentración."
+      },
+      {
+        "type": "paragraph",
+        "text": "Las herramientas para esta corriente paradójicamente también se digitalizan: aplicaciones para limitar otras aplicaciones, modos enfocados, teléfonos secundarios sin redes sociales."
+      },
+      {
+        "type": "quote",
+        "text": "No estamos cansados de la tecnología. Estamos cansados de cómo la usamos.",
+        "author": "Especialista en hábitos digitales"
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "slug": "exportaciones-textiles-record",
+    "title": "Las exportaciones textiles regionales cierran el año con cifras récord",
+    "category": "economia",
+    "author": {
+      "name": "Roberto Paz"
+    },
+    "publishedAt": "2024-12-05T09:30:00Z",
+    "tags": ["exportaciones", "textil"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "El sector textil regional cerrará el año con sus mejores cifras de exportación de la última década. La diversificación de mercados —más allá de Estados Unidos— y la entrada en nichos de productos técnicos explican buena parte del salto."
+      },
+      {
+        "type": "paragraph",
+        "text": "Los desafíos pendientes incluyen modernizar maquinaria y atraer mano de obra calificada, dos puntos que las cámaras del sector vienen señalando hace tiempo."
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "slug": "documental-naturaleza-honduras",
+    "title": "Un documental sobre la biodiversidad hondureña gana reconocimiento internacional",
+    "excerpt": "El equipo de realización trabajó tres años filmando especies poco documentadas en bosques nubosos del país.",
+    "coverImage": {
+      "src": "https://picsum.photos/seed/bosque-nuboso/1600/900",
+      "alt": "Bosque nuboso con neblina entre los árboles"
+    },
+    "category": "cultura",
+    "author": {
+      "name": "Ana Lucía Reyes",
+      "avatar": "https://i.pravatar.cc/150?img=31",
+      "bio": "Crítica cultural y reportera de espectáculos."
+    },
+    "publishedAt": "2024-11-09T18:00:00Z",
+    "tags": ["documental", "biodiversidad", "Honduras"],
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "El documental, producido íntegramente con equipo regional, recibió este mes un reconocimiento en uno de los festivales europeos más importantes del género. Detrás del resultado hay tres años de trabajo en zonas remotas y condiciones difíciles."
+      },
+      {
+        "type": "heading",
+        "level": 2,
+        "text": "Lo que muestra"
+      },
+      {
+        "type": "paragraph",
+        "text": "La pieza recorre tres bosques nubosos hondureños y documenta especies que apenas habían sido registradas en video. Algunas escenas, según los propios realizadores, requirieron semanas de espera para una sola toma."
+      },
+      {
+        "type": "image",
+        "src": "https://picsum.photos/seed/animal-bosque/1600/900",
+        "alt": "Animal silvestre entre la vegetación de un bosque nuboso"
+      },
+      {
+        "type": "quote",
+        "text": "No queríamos hacer un documental sobre lo que está en peligro. Queríamos hacer uno sobre lo que todavía está vivo, y por qué vale la pena cuidarlo.",
+        "author": "Director del documental"
+      },
+      {
+        "type": "paragraph",
+        "text": "El equipo planea distribuir el documental gratuitamente en escuelas hondureñas durante el próximo año, con material educativo complementario desarrollado junto a biólogos y docentes."
+      }
+    ]
+  }
+]
