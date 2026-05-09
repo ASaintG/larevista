@@ -6,6 +6,7 @@ import { headers } from "next/headers";
 import ArticleBody from "@/components/article/ArticleBody";
 import RelatedArticles from "@/components/article/RelatedArticles";
 import ShareButtons from "@/components/ui/ShareButtons";
+import Footer from "@/components/footer/Footer";
 import {
   getArticleBySlug,
   getArticlesByCategory,
@@ -93,6 +94,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     article.coverImage?.alt ?? `Portada: ${article.title}`;
 
   return (
+    <>
     <main className="flex-1">
       <article className="border-b border-gray-100 bg-white">
         <div className="container mx-auto max-w-3xl px-4 py-8 sm:px-6 md:py-12 lg:px-8">
@@ -177,5 +179,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         <RelatedArticles articles={related} />
       </div>
     </main>
+    <Footer/>
+    </>
   );
 }
